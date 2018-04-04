@@ -1,0 +1,8 @@
+﻿<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<!--File Created By SMS Backup & Restore v9.72.111 on 11/03/2017 17:51:00-->
+<?xml-stylesheet type="text/xsl" href="sms.xsl"?>
+<smses count="3" backup_set="84542848-37f8-4052-8d42-a82dfcf3c6a5" backup_date="1489272656021">
+  <sms type="2" body="Hey did study for the midterm we have coming up tomorrow." readable_date="Feb 4, 2016 17:40:43" contact_name="Frank" />
+  <sms type="1" body="No lol we have one? All I did was eat cheetos and binge watch Game of Thrones." readable_date="Feb 4, 2016 17:42:27" contact_name="Frank" />
+  <sms type="2" body="Oh boy well you are doomed then because it covers chapters 1 through 6 and this teacher loves to make students cry." readable_date="Feb 5, 2016 15:07:36" contact_name="Frank" />
+</smses>
